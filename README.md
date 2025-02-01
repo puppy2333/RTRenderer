@@ -6,3 +6,8 @@
 <p align="center">
     <img src="./output_cbox_all_diff.png" width="600" alt="hw1"/>
 </p>
+
+Materials implemented:
+1. Diffuse
+2. Specular
+3. Transparent
